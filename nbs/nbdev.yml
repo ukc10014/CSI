@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CSI"
+  site-url: "https://ukc10014.github.io/CSI"
+  description: "Playing with nbdev on CSI project"
+  repo-branch: main
+  repo-url: "https://github.com/ukc10014/CSI"
